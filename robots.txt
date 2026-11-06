@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /download/
+
+Sitemap: https://metabalika.ru/sitemap.xml
+Host: https://metabalika.ru
